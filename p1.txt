@@ -2,7 +2,10 @@ Suhas HJ
 Sushameendra
 Yashas
 <<<<<<< HEAD
+<<<<<<< HEAD
 Supreeth
 
+=======
+>>>>>>> 7fc81e1 (file added)
 =======
 >>>>>>> 7fc81e1 (file added)
